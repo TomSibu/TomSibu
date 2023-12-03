@@ -34,11 +34,7 @@
 
 ###
 
-
-| 🎵 Now Playing                                                                                                                    |
-| ------------------------------------------------------------------------------------------------------------------------------ |
-| [![Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=qjjdioskdxzqj21sb2u9rpzcf&redirect=true)](https://spotify-github-profile.vercel.app/api/view.svg?uid=qjjdioskdxzqj21sb2u9rpzcf&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=qjjdioskdxzqj21sb2u9rpzcf&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=qjjdioskdxzqj21sb2u9rpzcf&redirect=true)
 
 ###
 
