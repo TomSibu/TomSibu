@@ -37,7 +37,7 @@
 
 | 🎵 Now Playing                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------ |
-| <a href="https://status.nmoo.dev/now-playing?open"><img src="https://status.nmoo.dev/now-playing" width="540" height="64"></a> |
+| [![Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=qjjdioskdxzqj21sb2u9rpzcf&redirect=true)](https://spotify-github-profile.vercel.app/api/view.svg?uid=qjjdioskdxzqj21sb2u9rpzcf&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)
 
 
 ###
