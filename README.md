@@ -80,3 +80,8 @@
 </div>
 
 ###
+
+<h3 align="left">Support Me</h3>
+<p><a href="https://www.buymeacoffee.com/tomsibu"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/tomsibu" /></a></p><br><br>
+
+###
