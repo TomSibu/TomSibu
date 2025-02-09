@@ -15,9 +15,11 @@ I'm Tom Sibu from Kerala, India<br><br>- 🔭 I’m doing B.Tech in Computer Sci
 <a href="mailto:tomsibu@proton.me" target="blank">
 <img align="center" src="https://github.com/TomSibu/TomSibu/blob/main/email-mail-svgrepo-com.svg" alt="Email" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/Tech_Tom/" target="blank">
-<img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+<img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a> 
 <a href="https://www.codechef.com/users/band_whisk_69" target="blank">
 <img align="center" src="https://www.codechef.com/favicon.ico" alt="CodeChef" height="33" width="33" /></a>
+<a href="https://www.geeksforgeeks.org/user/tomsibuef62/" target="blank">
+<img align="center" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_favicon.png" alt="GFG" height="33" width="33" /></a>
 </p>
 
 
