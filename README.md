@@ -19,7 +19,9 @@ I'm Tom Sibu from Kerala, India<br><br>- 🔭 I’m doing B.Tech in Computer Sci
 <a href="https://www.codechef.com/users/band_whisk_69" target="blank">
 <img align="center" src="https://www.codechef.com/favicon.ico" alt="CodeChef" height="33" width="33" /></a>
 <a href="https://www.geeksforgeeks.org/user/tomsibu/" target="blank">
-<img align="center" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_favicon.png" alt="GFG" height="33" width="33" /></a>
+<img align="center" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_favicon.png" alt="GFG" height="38" width="38" /></a>
+<a href="https://ctf.hackthebox.com/user/profile/613047" target="blank">
+<img align="center" src="https://account.hackthebox.com/images/HTB-favicon/favicon-32x32.png" alt="HTB" height="35" width="35" /></a>
 </p>
 
 
